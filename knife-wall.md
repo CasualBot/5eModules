@@ -9,20 +9,21 @@
   .phb:nth-child(2n) .footnote { left: inherit; text-align: right; }
   .phb:nth-child(2n+1) .footnote { left: 80px; text-align: left; }
 </style>
-
 <div style='margin-top:450px;'></div>
-
-# Mini-Games Chaos
-<div class='wide'>
-### Part 1
-</div>
-<div style='margin-top:25px'></div>
+# Chaotic Mini-games
 <div class='wide'>
 ##### When all hell breaks loose best to grab an ale and join in on the fun
-###### - ThePyroTV
+</div>
+<div class='wide'>
+#### Part 1
 </div>
 
-\page# Knife wall!
+
+<div class='footnote'></div>
+
+\page
+
+# Knife wall!
 So you think you have the guts to withstand a game of knife wall do you? Well anty up, sharpen your blades, and keep your wits about you to see who will come out richer (and hopefully with all limbs still attached) .
 
 <br/>
@@ -78,16 +79,6 @@ The only prerequisite to knife wall is:
 Each player, including any NPCs, take turns being on the wall in which the other players will throw a knife at them.
 
 <div class='pageNumber'>1</div>
-<div class='footnote'>MINI-GAME | KNIFE WALL</div>
-<style><style>
-  .phb{ background : white;}
-  .phb img{ display : none;}
-  .phb hr+blockquote{background : white;}
-</style>
+<div class='footnote'>Chaotic Mini-games | Knife Wall</div>
 
-  .phb{
-    width : 210mm;
-    height : 296.8mm;
-  }
-</style>
 \page
