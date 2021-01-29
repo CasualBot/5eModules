@@ -1,6 +1,28 @@
-\page
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+  .phb#p2 { counter-reset:phb-page-numbers; }
+  .phb:nth-child(2n) .pageNumber { left: inherit !important; right: 2px !important; }
+  .phb:nth-child(2n+1) .pageNumber { right: inherit !important; left: 2px !important; }
+  .phb:nth-child(2n)::after { transform: scaleX(1); }
+  .phb:nth-child(2n+1)::after { transform: scaleX(-1); }
+  .phb:nth-child(2n) .footnote { left: inherit; text-align: right; }
+  .phb:nth-child(2n+1) .footnote { left: 80px; text-align: left; }
+</style>
 
-# Knife wall!
+<div style='margin-top:450px;'></div>
+
+# Mini-Games Chaos
+<div class='wide'>
+### Part 1
+</div>
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### When all hell breaks loose best to grab an ale and join in on the fun
+###### - ThePyroTV
+</div>
+
+\page# Knife wall!
 So you think you have the guts to withstand a game of knife wall do you? Well anty up, sharpen your blades, and keep your wits about you to see who will come out richer (and hopefully with all limbs still attached) .
 
 <br/>
@@ -57,3 +79,15 @@ Each player, including any NPCs, take turns being on the wall in which the other
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>MINI-GAME | KNIFE WALL</div>
+<style><style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
+\page
