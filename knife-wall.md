@@ -46,6 +46,7 @@ The intent of Knife Wall is not to hit or hurt the person on the wall but to try
 
 ### Rules
 * Each person makes a wager of either coin or value of equal value.
+* Best of 3 rounds or an agreed upon length by the players and/or game master.
 * To determine order each participant rolls 1d20 with no modifiers.
 * Each player takes a turn throwing a knife at the person standing on the wall, as well as, taking a turn being on the wall. (See **Taking turns** for more information)
 * A person throwing a knife makes a straight Dexterity Check (1d20 + Dexterity Modifier). 
@@ -63,8 +64,7 @@ The intent of Knife Wall is not to hit or hurt the person on the wall but to try
 > Players can "cheat". There is nothing in the rules about not using tricks, spells, magic, distractions, etc.
 > Players can also add rules and/or agreements if they choose. 
 
-<br/><br/>
-
+<br/>
 ## How to start
 Game Masters! Knife wall is not for the feint of heart or weak - it can break the strongers and largest of adventurers and make champions of the meek. It is a game 
 <br/><br/>
@@ -72,13 +72,36 @@ The only prerequisite to knife wall is:
 * A knife/dagger or equivalent.
 * Some kind of wall or surface to stand against. 
 * Players with loot or money to spend and play
-<br/>
 
 <br/>
-## Taking turns
-Each player, including any NPCs, take turns being on the wall in which the other players will throw a knife at them.
+This is a really good opportunity as the game master to narrate what is going on in the surrounding environment and person(s) around. 
+
+Have fun with it, the more excitement you introduce the higher the stakes can get. Maybe a fight breaks out between two NPCs as the game progresses because of the excitement.
+<br/>
+<br/>
+
+> *As the rogue and the fighter agree on their wager they hand over 50gp each to the barkeep for safe keeping as you see the bar explode with excitement. People running and gathering quickly spilling their drinks as they climb over one another. 'KNIFE WALLLL!' you hear yelled through the entirity of the bar.
+> <br/><br/> 
+> As you approach the wall across the bar you see it is pocked with holes, dents, and/or missing pieces of wood from previous games. Once positioned to start the barkeep approaches you both proclaiming loudly for all to hear:*
+> <br/><br/>
+>'You know the rules, I'll hold the gold until a winner prevails! Drinks 20% off while the game lasts!' * as the bar erupts in cheers and whistles.*
+> <br/><br/>
+> At this point both players roll 1d20 to see who goes first. Game on.
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>Chaotic Mini-games | Knife Wall</div>
 
 \page
+
+
+## Taking turns
+Each player will take a turn either throwing the knife/dagger or agreed upon object until a winner prevails.
+
+### Throwing The Knife
+
+<div style='margin-bottom:20px;'></div>
+
+### Standing Against The Wall
+
+<div class='pageNumber'>2</div>
+<div class='footnote'>Chaotic Mini-games | Knife Wall</div>
